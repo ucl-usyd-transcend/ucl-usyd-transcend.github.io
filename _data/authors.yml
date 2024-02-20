@@ -1,18 +1,15 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Neil Oxtoby:
+  name        : "Neil Oxtoby"
+  uri         : "https://neiloxtoby.com"
+  email       : "n.oxtoby@ucl.ac.uk"
+  bio         : "Neil is the UCL PI of TranSCEND."
+  avatar      : "flatwhitecool_small.jpg"
+  twitter     : "NeilOxtoby"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+Elie Matar:
+  name        : "Elie Mater"
+  bio         : "Elie is the USyd PI of TranSCEND"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "DrElieMatar"
