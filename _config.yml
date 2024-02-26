@@ -10,8 +10,8 @@
 locale                   : "en-GB"
 title                    : "UCL - USyd TranSCEND project"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Project description"
+name                     : &name "TranSCEND Project"
+description              : &description "Transdiagnostic Subtyping and Classification Efforts in Neurodegenerative Diseases"
 url                      : https://ucl-usyd-transcend.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ucl-usyd-transcend/ucl-usyd-transcend.github.io"
