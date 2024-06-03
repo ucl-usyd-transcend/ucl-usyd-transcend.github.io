@@ -6,5 +6,6 @@ excerpt: 'Gonzalo is a PhD student at UCL'
 ---
 
 Position: PhD candidate<br/>
-Institute: University College London<br/>
-Unit: UCL Computer Science and UCL Centre for Medical Image Computing
+Institute: [University College London](https://www.ucl.ac.uk)<br/>
+Unit: UCL Computer Science and UCL [Centre for Medical Image Computing](https://www.ucl.ac.uk/cmic)<br/>
+GitHub: [@goncasleal](https://github.com/goncasleal)
