@@ -4,6 +4,8 @@ main:
   #   url: /team/
   - title: "Team"
     url: /team/
+  - title: "Symposium"
+    url: /symposium/
   #
   # - title: "Talks"
   #   url: /talks/
