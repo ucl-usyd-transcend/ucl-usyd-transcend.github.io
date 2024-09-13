@@ -13,5 +13,5 @@ PIs: [Elie Matar](https://twitter.com/dreliematar) (University of Sydney) and [N
 
 We are working towards differential diagnosis of neurodegenerative diseases using disease progression modelling, starting with Lewy Body disorders and neuroimaging data.
 
-We are planning a symposium at the University of Sydney in November 2024. Stay tuned.
+We are organising a symposium at the University of Sydney in November 2024: [Cutting edge tools for unravelling neurodegenerative disease](/symposium).
 
