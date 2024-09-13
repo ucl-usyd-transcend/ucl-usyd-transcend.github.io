@@ -3,7 +3,6 @@ permalink: /symposium
 title: "TranSCEND Symposium: 6 Nov 2024"
 author_profile: true
 redirect_from: 
-  - /symposium/
   - /symposium.html
 ---
 
