@@ -2,8 +2,6 @@
 permalink: /symposium
 title: "TranSCEND Symposium: 6 Nov 2024"
 author_profile: true
-redirect_from: 
-  - /symposium.html
 ---
 
 TranSCEND is proud to be hosting an international computational and advanced neuroimaging symposium and workshop at the University of Sydney on 6 November 2024.
