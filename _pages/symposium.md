@@ -6,6 +6,8 @@ author_profile: true
 
 TranSCEND is proud to be hosting an international computational and advanced neuroimaging symposium and workshop at the University of Sydney on 6 November 2024.
 
+Register to attend via [this Eventbrite page](https://www.eventbrite.com.au/e/computational-and-advanced-neuroimaging-symposium-and-workshop-tickets-1013300939387).
+
 # Cutting edge tools for unravelling neurodegenerative disease
 
 Date: 6 Nov 2024 <br/>
